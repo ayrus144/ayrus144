@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I have interests in Generative AI/ LLMs/ Computer Vision
-- 🔭 I have good exposure to Robust AI/ XAI/ Responsible AI
+- 😄 I have interests in Generative AI and Green Computing
+- 🔭 I have good exposure to HPC/ XAI/ Responsible AI
 - ⛏ I’m currently developing a Custom Segmentation tool for Wildlife Images
 - 🌱 I’m currently learning about Agentic AI
 
