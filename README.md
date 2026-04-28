@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I have interests in Generative AI and Green Computing
-- 🔭 I have good exposure to HPC/ XAI/ Responsible AI
+- 😄 I have interests in Data-driven modelling and Green Computing
+- 🔭 I have good exposure to Simulation, HPC, XAI/ Responsible AI
 - ⛏ I’m currently developing a Custom Segmentation tool for Wildlife Images
-- 🌱 I’m currently learning about Agentic AI
+- 🌱 I’m currently learning about GPU Programming and Agentic AI
 
 💬 Key Contributor in:
 - [distance-estimation](https://github.com/timmh/distance-estimation/#acknowledgements) : acknowledged for pointing issues with computation of world coordinates.
